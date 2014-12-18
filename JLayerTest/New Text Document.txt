@@ -1,0 +1,7 @@
+call JavaPathAndProgramNameSet.bat
+
+%javaPath%javac.exe -classpath .;JLayer.jar %programName%.java
+
+%javaPath%java.exe -classpath .;JLayer.jar %programName%
+
+pause
