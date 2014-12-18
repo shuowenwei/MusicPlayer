@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/MusicPlayer/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/MusicPlayer/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/MusicPlayer/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/JavaMusicExample/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/JavaMusicExample/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="D:/userdata/Desktop/CSC 631 Object Oriented Software Engineering/JavaMusicExample/tritonus_share-0.3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
