@@ -1,2 +1,2 @@
-This is MusicPlayer application written in Java 
+This is a MusicPlayer application written in Java 
 ===========
